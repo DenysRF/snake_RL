@@ -1,0 +1,216 @@
+OLD BUILDS
+This run had an average of 101.66666666666667
+	 List of scores: [151, 93, 61]
+Pythagoras: This run had an average of 92.1
+ List of scores: [94, 125, 99, 73, 116, 127, 88, 36, 86, 45, 72, 118, 128, 128, 43, 58, 116, 47, 109, 76, 111, 78, 76, 111, 90, 90, 142, 66, 122, 93]
+Manhattan: This run had an average of 99.96666666666667
+ List of scores: [86, 79, 78, 81, 91, 82, 91, 119, 152, 100, 88, 127, 114, 80, 93, 98, 62, 141, 106, 69, 116, 78, 87, 125, 106, 133, 120, 140, 53, 104]
+Pythagoras: This run had an average of 93.23333333333333
+	 List of scores: [62, 109, 98, 90, 107, 94, 80, 163, 100, 69, 102, 60, 69, 98, 126, 125, 40, 87, 95, 63, 102, 109, 113, 113, 154, 68, 81, 81, 58, 81]
+
+CURRENT BUILD
+Manhattan: This run had an average of 107.96666666666667
+ List of scores: [82, 144, 75, 179, 100, 86, 88, 64, 131, 114, 121, 102, 86, 127, 147, 116, 97, 83, 120, 137, 99, 132, 73, 141, 116, 110, 76, 96, 112, 85]
+Manhattan: This run had an average of 106.83333333333333
+ List of scores: [77, 93, 111, 109, 91, 155, 69, 128, 97, 125, 38, 76, 125, 107, 93, 106, 100, 126, 132, 99, 156, 78, 93, 162, 170, 65, 82, 140, 98, 104]
+Manhattan: This run had an average of 105.06666666666666
+	 List of scores: [125, 91, 86, 141, 131, 102, 86, 150, 113, 133, 78, 91, 149, 129, 138, 88, 71, 122, 127, 114, 123, 79, 77, 92, 81, 76, 105, 117, 38, 99]
+
+OLD TIME BENCHMARKS
+n=25	This run had an average of 99.4
+	 List of scores: [121, 109, 98, 88, 68, 142, 104, 112, 96, 114, 120, 55, 118, 66, 120, 74, 78, 129, 123, 111, 47, 122, 106, 107, 100, 111, 94, 52, 81, 116]
+	Average A* time: 0.06823900168769939 seconds	 ran 5368 times.
+n=30	This run had an average of 112.56666666666666
+	 List of scores: [158, 134, 110, 156, 92, 94, 71, 125, 150, 149, 110, 80, 89, 74, 89, 124, 139, 103, 78, 133, 127, 59, 139, 164, 72, 108, 106, 143, 107, 94]
+	Average A* time: 0.14243006392006868 seconds	 ran 7208 times.
+n=35	This run had an average of 164.56666666666666
+	 List of scores: [102, 116, 168, 170, 189, 187, 158, 208, 160, 175, 174, 78, 185, 165, 118, 176, 142, 179, 173, 172, 188, 208, 139, 110, 216, 252, 205, 142, 144, 138]
+	Average A* time: 0.20721799439608454 seconds	 ran 10515 times.
+n=40	This run had an average of 184.56666666666666
+	 List of scores: [140, 214, 210, 255, 231, 87, 196, 161, 174, 92, 202, 138, 221, 197, 135, 192, 194, 222, 162, 196, 159, 266, 212, 177, 141, 224, 100, 206, 198, 235]
+	Average A* time: 0.47307437341924630 seconds	 ran 12189 times.
+
+n=30	This run had an average of 107.2
+	 List of scores: [91, 135, 95, 65, 94, 135, 124, 74, 107, 117, 105, 85, 119, 78, 90, 86, 104, 126, 138, 121, 103, 134, 112, 87, 103, 116, 145, 83, 104, 140]
+	Average A* time: 0.07268334071699864 seconds	 ran 3333 times.
+
+NEW TIME BENCHMARKS (die when cannot find path and limited to score of 50 for higher dimensions)
+n=25	This run had an average of 92.9
+	 List of scores: [92, 89, 146, 108, 74, 97, 99, 75, 74, 38, 85, 79, 85, 122, 87, 47, 83, 116, 93, 82, 125, 108, 90, 90, 108, 83, 77, 104, 140, 91]
+	Average A* time: 0.04092167635833334 seconds	 ran 2929 times.
+n=30	This run had an average of 107.03333333333333
+	 List of scores: [130, 88, 83, 128, 106, 136, 66, 122, 121, 143, 73, 97, 73, 112, 150, 64, 91, 150, 104, 114, 147, 83, 120, 114, 119, 81, 108, 121, 93, 74]
+	Average A* time: 0.07082968157880447 seconds	 ran 3400 times.
+n=35	This run had an average of 127.16666666666667
+	 List of scores: [116, 187, 116, 141, 116, 92, 128, 139, 116, 197, 104, 120, 156, 37, 178, 135, 119, 155, 109, 163, 123, 129, 79, 102, 90, 147, 137, 106, 126, 152]
+	Average A* time: 0.12514122997568672 seconds	 ran 3912 times.
+n=40	This run had an average of 141.36666666666667
+	 List of scores: [143, 100, 168, 144, 129, 150, 192, 174, 84, 136, 88, 195, 188, 179, 138, 112, 126, 127, 92, 150, 234, 117, 141, 119, 173, 113, 171, 131, 122, 105]
+	Average A* time: 0.20746098680699127 seconds	 ran 4324 times.
+n=45	This run had an average of 158.9
+	 List of scores: [169, 138, 175, 201, 171, 114, 188, 177, 211, 151, 220, 156, 218, 133, 77, 159, 118, 207, 98, 135, 128, 215, 192, 121, 143, 144, 173, 155, 102, 178]
+	Average A* time: 0.28153907972194920 seconds	 ran 4887 times.
+n=50	This run had an average of 169.56666666666666
+	 List of scores: [225, 115, 138, 240, 155, 190, 205, 171, 116, 179, 191, 192, 225, 90, 197, 190, 170, 54, 177, 88, 208, 176, 230, 200, 143, 138, 102, 199, 225, 158]
+	Average A* time: 0.45562786915587195 seconds	 ran 5163 times.
+n=55	This run had an average of 51.0
+	 List of scores: [51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51]
+	Average A* time: 0.48537713794904380 seconds	 ran 1556 times.
+
+TIME BENCHMARKS (limited to 30 A* search executions)
+n=25
+	 List of scores: [28]
+	Average A* time: 0.0380744695663452 seconds	 ran 30 times.
+n=30
+	 List of scores: [27]
+	Average A* time: 0.0727844794591267 seconds	 ran 30 times.
+n=35
+	 List of scores: [28]
+	Average A* time: 0.0707015037536621 seconds	 ran 30 times.
+n=40
+	 List of scores: [28]
+	Average A* time: 0.1396206935246785 seconds  ran 30 times.
+n=45
+	 List of scores: [29]
+	Average A* time: 0.1922663688659668 seconds	 ran 30 times.
+n=50
+	 List of scores: [27]
+	Average A* time: 0.4046083370844523 seconds	 ran 30 times.
+n=55
+	 List of scores: [28]
+	Average A* time: 0.6345658779144288 seconds	 ran 30 times.
+n=60
+	 List of scores: [28]
+	Average A* time: 0.6164092540740966 seconds	 ran 30 times.
+n=65
+	 List of scores: [28]
+	Average A* time: 0.7054041226704916 seconds	 ran 30 times.
+n=70
+	 List of scores: [28]
+	Average A* time: 1.0097841183344523 seconds	 ran 30 times.
+n=75
+	 List of scores: [29]
+	Average A* time: 1.3707967758178712 seconds	 ran 30 times.
+
+BLOCKS BENCHMARK (board size 25x25, limited to 30 A* search executions)
+0 block(s)	This run had an average of 27.0
+	 List of scores: [27]
+	Average A* time: 0.017963457107543945 seconds	 ran 30 times.
+1 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.036290740966796874 seconds	 ran 30 times.
+2 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.028192543983459474 seconds	 ran 30 times.
+3 block(s)	This run had an average of 27.0
+	 List of scores: [27]
+	Average A* time: 0.023057301839192707 seconds	 ran 30 times.
+4 block(s)	This run had an average of 29.0
+	 List of scores: [29]
+	Average A* time: 0.03464837074279785 seconds	 ran 30 times.
+5 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.030971360206604005 seconds	 ran 30 times.
+6 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.027431082725524903 seconds	 ran 30 times.
+7 block(s)	This run had an average of 29.0
+	 List of scores: [29]
+	Average A* time: 0.02453183333079020 seconds	 ran 30 times.
+8 block(s)	This run had an average of 29.0
+	 List of scores: [29]
+	Average A* time: 0.019264634450276694 seconds	 ran 30 times.
+9 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.02463850975036621 seconds	 ran 30 times.
+10 block(s)	This run had an average of 29.0
+	 List of scores: [29]
+	Average A* time: 0.03750071525573730 seconds	 ran 30 times.
+12 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.03243232568105062 seconds	 ran 30 times.
+14 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.030831273396809897 seconds	 ran 30 times.
+16 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.037169114748636885 seconds	 ran 30 times.
+18 block(s)	This run had an average of 29.0
+	 List of scores: [29]
+	Average A* time: 0.026970593134562175 seconds	 ran 30 times.
+20 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.027079232533772788 seconds	 ran 30 times.
+22 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.02296107610066732 seconds	 ran 30 times.
+24 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.018559861183166503 seconds	 ran 30 times.
+26 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.017720484733581544 seconds	 ran 30 times.
+28 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.02900729179382324 seconds	 ran 30 times.
+30 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.022357583045959473 seconds	 ran 30 times.
+35 block(s)	This run had an average of 29.0
+	 List of scores: [29]
+	Average A* time: 0.027491092681884766 seconds	 ran 30 times.
+40 block(s)	This run had an average of 29.0
+	 List of scores: [29]
+	Average A* time: 0.027407137552897136 seconds	 ran 30 times.
+45 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.028990006446838378 seconds	 ran 30 times.
+50 block(s)	This run had an average of 29.0
+	 List of scores: [29]
+	Average A* time: 0.034643061955769855 seconds	 ran 30 times.
+55 block(s)	This run had an average of 29.0
+	 List of scores: [29]
+	Average A* time: 0.022271895408630372 seconds	 ran 30 times.
+60 block(s)	This run had an average of 29.0
+	 List of scores: [29]
+	Average A* time: 0.027263673146565755 seconds	 ran 30 times.
+65 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.028665041923522948 seconds	 ran 30 times.
+70 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.028276228904724122 seconds	 ran 30 times.
+75 block(s)	This run had an average of 29.0
+	 List of scores: [29]
+	Average A* time: 0.019103344281514487 seconds	 ran 30 times.
+80 block(s)	This run had an average of 29.0
+	 List of scores: [29]
+	Average A* time: 0.02512989044189453 seconds	 ran 30 times.
+85 block(s)	This run had an average of 27.0
+	 List of scores: [27]
+	Average A* time: 0.01839159329732259 seconds	 ran 30 times.
+90 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.02421716849009196 seconds	 ran 30 times.
+95 block(s)	This run had an average of 27.0
+	 List of scores: [27]
+	Average A* time: 0.026569787661234537 seconds	 ran 30 times.
+100 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.026410992940266928 seconds	 ran 30 times.
+
+110 block(s)	This run had an average of 25.0
+	 List of scores: [25]
+	Average A* time: 0.019741007259913852 seconds	 ran 28 times.
+120 block(s)	This run had an average of 16.0
+	 List of scores: [16]
+	Average A* time: 0.029097904761632282 seconds	 ran 24 times.
+130 block(s)	This run had an average of 28.0
+	 List of scores: [28]
+	Average A* time: 0.034828996658325194 seconds	 ran 30 times.
+140 block(s)	This run had an average of 13.0
+	 List of scores: [13]
+	Average A* time: 0.01465137799580892 seconds	 ran 15 times.
+150 block(s)	This run had an average of 10.0
+	 List of scores: [10]
+	Average A* time: 0.03728466767531175 seconds	 ran 13 times.
